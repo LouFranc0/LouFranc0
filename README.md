@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="www.linkedin.com/in/francescocaputo93">
+  <a href="https://www.linkedin.com/in/francescocaputo93/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
