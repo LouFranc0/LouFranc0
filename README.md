@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align-items="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 <div id="badges">
