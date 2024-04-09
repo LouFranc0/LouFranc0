@@ -8,7 +8,7 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=LouFranc0&style=flat-square&color=blue" alt=""/>
 
-### 👋 Hi, I’m Francesco Caputo known as @LouFranc0
+### 👋 Hi, I’m Francesco Caputo
 
 ### 👀 I’m addicted in coding, music and cinema 
 
