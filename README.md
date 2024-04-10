@@ -37,5 +37,5 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouFranc0&layout=compact)](https://github.com/LouFranc0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouFranc0&layout=compact&theme=dark)](https://github.com/LouFranc0)
 
