@@ -12,7 +12,7 @@
 
 ### 👀 I’m addicted in coding, music and cinema 
 
-### 🌍 Proudly from Lecce, Italy.
+### 🌍 rom Lecce, Italy.
 
  ### :hammer_and_wrench: Languages and Tools :
 
