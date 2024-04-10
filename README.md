@@ -1,6 +1,7 @@
 <div align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+    ### 🌟 May the **coding** be with **you** 🌟
   </div>
   <div align="center">
   <a href="https://www.linkedin.com/in/francescocaputo93/">
@@ -9,6 +10,7 @@
 
 </div>
   <img src="https://komarev.com/ghpvc/?username=LouFranc0&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 ### 👋 Hi, I’m Francesco Caputo
