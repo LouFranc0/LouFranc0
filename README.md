@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
    
   </div>
-  <div align="center">
+  <div align="center m-6">
     🌟 May the **coding** be with **you** 🌟 
     </div>
     
