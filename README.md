@@ -10,9 +10,9 @@
 
 ### 👋 Hi, I’m Francesco Caputo
 
-### 👀 I’m addicted in coding, music and cinema 
+### ❤️ I'm in love with music, coding and cinema
 
-### 🌍 rom Lecce, Italy.
+### 🌍 From Lecce, Italy.
 
  ### :hammer_and_wrench: Languages and Tools :
 
