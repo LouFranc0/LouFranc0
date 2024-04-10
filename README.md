@@ -1,8 +1,12 @@
 <div align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
-    ### 🌟 May the **coding** be with **you** 🌟
+   
   </div>
+  <div align="center>
+    🌟 May the **coding** be with **you** 🌟 
+    </div>
+    
   <div align="center">
   <a href="https://www.linkedin.com/in/francescocaputo93/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
